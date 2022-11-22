@@ -1,7 +1,7 @@
 
 # Discord Bot list's
 
-This list features every botlist out there that is working as of now. This repo is automatically updated every day.
+Esta lista apresenta todas as listas de bots que estão funcionando a partir de agora. Este repositório é atualizado automaticamente todos os dias.
 
 ## Botlists:
 
@@ -44,9 +44,4 @@ This list features every botlist out there that is working as of now. This repo 
 
 
 
-## If you got a botlist that you want to add here simply open a pull request and it will be here as soon as possible!
-
-
-## Contributors
-
-![CloneRepo](https://contrib.rocks/image?repo=mezotv/Discord-Bot-Lists)
+## Se você tem uma lista de bots que deseja adicionar aqui, basta abrir um pull request e ela estará aqui o mais rápido possível!
